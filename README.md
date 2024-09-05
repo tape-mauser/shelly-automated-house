@@ -75,7 +75,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | janela grande | 2 | 3d printed Part | 20gr  | NA |  |
 | estore | 1 | 3d printed Part | 10gr | NA |  |
 | reclame | 1 | 3d printed Part | 20gr | NA |  |
-| polia | 1 | 3d printed Part |  | 5gr |NA  |
+| polia | 1 | 3d printed Part | 5gr | NA|   |
 | polia servo | 1 | 3d printed Part | 5gr | NA |  |
 |suporte de shelly| 3 | 3d printed Part | 35gr | NA| |
 
