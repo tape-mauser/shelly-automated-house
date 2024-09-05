@@ -11,7 +11,7 @@ Welcome to the Automated Exhibition House project! This repository showcases a f
 
 Watch the demonstration video below:
 
-[![Demo Video]](https://youtu.be/CE9VABJTA8k)
+[[Demo Video]](https://youtu.be/CE9VABJTA8k)
 
 ## Project Overview
 This project demonstrates the integration of IoT technology in a modern exhibition house setting. The key features include:
