@@ -1,6 +1,6 @@
 
 
-# Automated Exhibition House
+# Shelly Automated Exhibition House
 <img src="./WhatsApp Image 2024-09-05 at 10.40.30.jpeg" alt="Descrição da Imagem" width="300" height="500">
 Welcome to the Automated Exhibition House project! This repository showcases a fully functional smart home setup using Shelly modules. The house is equipped with four Shelly modules, which control the gate, shutters, and lighting, providing an automated and seamless experience.
 
