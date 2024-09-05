@@ -85,6 +85,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | polia               | 1        | 3d printed Part              | 5gr            | NA                |  |
 | polia servo         | 2        | 3d printed Part              | 5gr            | NA                |  |
 |suporte de shelly    | 3        | 3d printed Part              | 35gr           | NA                |  |
+|cantos               | 8        | 3d printed Part              | 10gr           | NA                |  |
 
 
 
