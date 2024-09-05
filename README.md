@@ -11,7 +11,7 @@ Welcome to the Automated Exhibition House project! This repository showcases a f
 
 Watch the demonstration video below:
 
-[[Demo Video]](https://youtu.be/CE9VABJTA8k)
+[Demo Video](https://youtu.be/CE9VABJTA8k)
 
 ## Project Overview
 This project demonstrates the integration of IoT technology in a modern exhibition house setting. The key features include:
@@ -68,22 +68,23 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Switch frame        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1513 |
 | Transparent cover   | 1        | 3 covers to prevent electric shock | 400x100mm|      NA           |  |
 | Fundação Lateral    | 1        | 3d printed Part              |  160gr         |      NA           |  |
-| Paredes RC com portão e porta | 1 | 3d printed Part | 280gr | NA  |  |
-| Chão | 1 | 3d printed Part | 120gr | NA |  |
-| Paredes com Janelas e varandas | 1 |3d printed Part  | 340gr |NA  |  |
-| Telhado | 1  | 3d printed Part  | 550gr  | NA |  |
-| Suporte de servo fundo | 1 | 3d printed Part | 15gr | NA |  |
-| Portao casa impressa | 1 |  3d printed Part | 15gr  | NA |  |
-| cobertura portao | 1 | 3d printed Part | 15gr  | NA |  |
-| Varanda | 2 |3d printed Part   | 20gr | NA |  |
-| Porta  | 1 | 3d printed Part | 10gr | NA |  |
-| janela interior | 2 | 3d printed Part | 10gr  | NA |  |
-| janela grande | 2 | 3d printed Part | 20gr  | NA |  |
-| estore | 1 | 3d printed Part | 10gr | NA |  |
-| reclame | 1 | 3d printed Part | 20gr | NA |  |
-| polia | 1 | 3d printed Part | 5gr | NA|   |
-| polia servo | 2 | 3d printed Part | 5gr | NA |  |
-|suporte de shelly| 3 | 3d printed Part | 35gr | NA| |
+| Paredes RC com portão e porta | 1 | 3d printed Part           | 280gr          | NA                |  |
+| Chão                | 1        | 3d printed Part              | 120gr          | NA                |  |
+| Paredes com Janelas e varandas | 1 |3d printed Part           | 340gr          |NA                 |  |
+| Telhado             | 1        | 3d printed Part              | 550gr          | NA                |  |
+| Suporte de servo fundo | 1     | 3d printed Part              | 15gr           | NA                |  |
+| Portao casa impressa | 1       |  3d printed Part             | 15gr           | NA                |  |
+| cobertura portao    | 1        | 3d printed Part              | 15gr           | NA                |  |
+| Varanda             | 2        |3d printed Part               | 20gr           | NA                |  |
+| Porta               | 1        | 3d printed Part              | 10gr           | NA                |  |
+| janela interior estores | 2    | 3d printed Part              | 10gr           | NA                |  |
+| janela pequena      | 2        | 3d printed Part multicolor   | 20gr           | NA                |  |
+| janela grande       | 1        | 3d printed Part multicolor   | 20gr           | NA                |  |
+| estore              | 1        | 3d printed Part              | 10gr           | NA                |  |
+| reclame             | 1        | 3d printed Part multicolor   | 20gr           | NA                |  |
+| polia               | 1        | 3d printed Part              | 5gr            | NA                |  |
+| polia servo         | 2        | 3d printed Part              | 5gr            | NA                |  |
+|suporte de shelly    | 3        | 3d printed Part              | 35gr           | NA                |  |
 
 
 
