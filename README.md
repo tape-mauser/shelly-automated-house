@@ -1,6 +1,9 @@
 
 
 # Shelly Automated Exhibition House
+
+The project is fully completed and operational. However, the documentation is still a work in progress. We are actively working on providing detailed instructions, schematics, and additional information. Please stay tuned for updates.
+
 <img src="./WhatsApp Image 2024-09-05 at 10.40.30.jpeg" alt="Descrição da Imagem" width="300" height="500">
 Welcome to the Automated Exhibition House project! This repository showcases a fully functional smart home setup using Shelly modules. The house is equipped with four Shelly modules, which control the gate, shutters, and lighting, providing an automated and seamless experience.
 
@@ -38,6 +41,45 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Shelly plus 1PM     |    1     | Shelly plus 1PM              |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3331                                  |
 | Shelly plus 1       |    1     | Shelly plus 1                |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3327                                  |
 | Shelly wall display |    1     | Shelly wall display          |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=302-3545                                  |
+| Relay 230v          |    3     | Relay 230v                   |      NA        | Mauser.pt         |https://mauser.pt/catalog/product_info.php?products_id=083-0127|
+| Node mcu esp32      |  1       |  Node mcu esp32              | NA             |Mauser.pt          |https://mauser.pt/catalog/product_info.php?products_id=096-7620|
+| Power Supply        | 1        |  Power Supply                | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=035-2542 |
+| IEC panel           | 1        |  IEC panel                   | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=011-0459 |
+| Power cord          | 1        | Power cord                   | NA             |Mauser.pt          | https://mauser.pt/catalog/product_info.php?products_id=047-2090|
+|  Blue Wire          | 10MTR    |Blue Wire                     | 1,5mm          | Mauser.pt         |  https://mauser.pt/catalog/product_info.php?products_id=016-0413  |
+| Black Wire          | 10MTR    |  Black Wire                  | 1,5mm          | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=1874_56_646_2747_3511&products_id=016-0414 |
+| Yellow/green Wire   | 0,5MTR   | Yellow/green Wire            | 1,5mm          | Mauser.pt         | https://mauser.pt/catalog/index.php?cPath=1874_56_646_2747_3511 |
+| 3Pair alarm cable   | 10MTR    | 3Pair alarm cable            | 0,22mm/0,75mm  |  Mauser.pt        |https://mauser.pt/catalog/product_info.php?cPath=1874_56_1504&products_id=016-0275  |
+| Wire terminal       | 30       | Wire terminal                | 1,5mm          | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=011-0529 |
+| servo motor         | 2        | Servo Motor                  |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=096-6268 |
+| Led strip           | 1        | Led Strip                    |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=306-5426 |
+| Belt                | 1        | Servo Belt gate              |                |  Mauser.pt        | https://mauser.pt/catalog/product_info.php?products_id=037-1095 |
+| Pressure switch     |  1       | (gate)                       |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=570_572_855_3342_1007_3326&products_id=302-1632 |
+| Light switch        |  2       | (lights)                     |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1503 |
+| Shutters switch     |  1       | (shutters)                   |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1503 |
+| Shutters key        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=570_572_855_3342_1008_3338&products_id=302-1531 |
+| Switch key          | 3        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1504 |
+| Switch frame        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1513 |
+| Transparent cover   | 1        | 3 covers to prevent electric shock | 400x100mm|      NA           |  |
+| Fundação Lateral    | 1        | 3d printed Part              |  160gr         |      NA           |  |
+| Paredes RC com portão e porta | 1 | 3d printed Part | 280gr | NA  |  |
+| Chão | 1 | 3d printed Part | 120gr | NA |  |
+| Paredes com Janelas e varandas | 1 |3d printed Part  | 340gr |NA  |  |
+| Telhado | 1  | 3d printed Part  | 550gr  | NA |  |
+| Suporte de servo fundo | 1 | 3d printed Part | 15gr | NA |  |
+| Portao casa impressa | 1 |  3d printed Part | 15gr  | NA |  |
+| cobertura portao | 1 | 3d printed Part | 15gr  | NA |  |
+| Varanda | 2 |3d printed Part   | 20gr | NA |  |
+| Porta  | 1 | 3d printed Part | 10gr | NA |  |
+| janela interior | 2 | 3d printed Part | 10gr  | NA |  |
+| janela grande | 2 | 3d printed Part | 20gr  | NA |  |
+| estore | 1 | 3d printed Part | 10gr | NA |  |
+| reclame | 1 | 3d printed Part | 20gr | NA |  |
+| polia | 1 | 3d printed Part |  | 5gr |NA  |
+| polia servo | 1 | 3d printed Part | 5gr | NA |  |
+|suporte de shelly| 3 | 3d printed Part | 35gr | NA| |
+
+
 
 
 
