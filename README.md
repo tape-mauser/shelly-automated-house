@@ -47,7 +47,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Shelly plus 1PM     |    1     | Shelly plus 1PM              |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3331                                  |
 | Shelly plus 1       |    1     | Shelly plus 1                |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3327                                  |
 | Shelly wall display |    1     | Shelly wall display          |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=302-3545                                  |
-| Relay 230v          |    3     | Relay 230v                   |      NA        | Mauser.pt         |https://mauser.pt/catalog/product_info.php?products_id=083-0127|
+| Relay 230v          |    4     | Relay 230v                   |      NA        | Mauser.pt         |https://mauser.pt/catalog/product_info.php?products_id=083-0127|
 | Node mcu esp32      |  1       |  Node mcu esp32              | NA             |Mauser.pt          |https://mauser.pt/catalog/product_info.php?products_id=096-7620|
 | Power Supply        | 1        |  Power Supply                | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=035-2542 |
 | IEC panel           | 1        |  IEC panel                   | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=011-0459 |
