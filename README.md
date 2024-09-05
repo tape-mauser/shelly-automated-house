@@ -28,6 +28,19 @@ Monitoring: Use the Shelly app or a home automation dashboard to monitor and con
 Contributing
 We welcome contributions to enhance this project! Feel free to fork the repository, submit issues, or open pull requests.
 
+## BOM
+
+| Item                | Quantity | Description                  | Size           | Supplier          |   Link                                                                                          |
+|:--------------------|:--------:|:-----------------------------|:--------------:|:-----------------:|:-----------------------------------------------------------------------------------------------:|
+| Base                |    1     | MDF                          |     1100x500mm |        NA         |                                                                                                 |
+| Dry Wall Box        |    8     | electrical dry wall box      |     NA         |     Mauser.pt     | https://mauser.pt/catalog/product_info.php?products_id=302-0743                                 |
+| Shelly plus 2PM     |    1     | Shelly plus 2PM              |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=095-0483                                  |
+| Shelly plus 1PM     |    1     | Shelly plus 1PM              |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3331                                  |
+| Shelly plus 1       |    1     | Shelly plus 1                |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3327                                  |
+| Shelly wall display |    1     | Shelly wall display          |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=302-3545                                  |
+
+
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
