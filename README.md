@@ -41,7 +41,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 
 | Item                | Quantity | Description                  | Size           | Supplier          |   Link                                                                                          |
 |:--------------------|:--------:|:-----------------------------|:--------------:|:-----------------:|:-----------------------------------------------------------------------------------------------:|
-| Base                |    1     | MDF                          |     1100x500mm |        NA         |                                                                                                 |
+| Base                |    1     | MDF                          |   1100x500x3mm |        NA         |                                                                                                 |
 | Dry Wall Box        |    8     | electrical dry wall box      |     NA         |     Mauser.pt     | https://mauser.pt/catalog/product_info.php?products_id=302-0743                                 |
 | Shelly plus 2PM     |    1     | Shelly plus 2PM              |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=095-0483                                  |
 | Shelly plus 1PM     |    1     | Shelly plus 1PM              |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3331                                  |
