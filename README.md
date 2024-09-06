@@ -87,8 +87,13 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 |suporte de shelly    | 3        | 3d printed Part              | 35gr           | NA                |  |
 |cantos               | 8        | 3d printed Part              | 10gr           | NA                |  |
 
+## 230v diagram
 
+You can view or download the full documentation in [this PDF file](./230v_shelly_diagram.pdf).
 
+## 5v diagram
+
+You can view or download the full documentation in [this PDF file](./5v_shelly_diagram.pdf).
 
 
 ## License
