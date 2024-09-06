@@ -66,7 +66,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Shutters key        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=570_572_855_3342_1008_3338&products_id=302-1531 |
 | Switch key          | 3        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1504 |
 | Switch frame        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1513 |
-| Transparent cover   | 1        | 3 covers to prevent electric shock | 400x100mm|      NA           |  |
+| Transparent cover   | 1        | 3 covers to prevent electric shock|400x100x3mm|      NA           |  |
 | Fundação Lateral    | 1        | 3d printed Part              |  160gr         |      NA           |  |
 | Paredes RC com portão e porta | 1 | 3d printed Part           | 280gr          | NA                |  |
 | Chão                | 1        | 3d printed Part              | 120gr          | NA                |  |
