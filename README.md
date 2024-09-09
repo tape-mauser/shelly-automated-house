@@ -101,6 +101,12 @@ You can view or download the full documentation in [this PDF file](./230v_shelly
 
 You can view or download the full documentation in [this PDF file](./5v_shelly_diagram.pdf).
 
+## ESP32 Code
+
+use the ESP32servo by Kevin Harrington, John K. Bennett V 1.2.1  library
+and esp32 by Espressif Systems V 2.0.17 Board manager 
+
+ESP32 Dev Module
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
