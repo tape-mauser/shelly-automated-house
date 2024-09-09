@@ -41,7 +41,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 
 | Item                | Quantity | Description                  | Size           | Supplier          |   Link                                                                                          |
 |:--------------------|:--------:|:-----------------------------|:--------------:|:-----------------:|:-----------------------------------------------------------------------------------------------:|
-| Base                |    1     | MDF                          |     1100x500mm |        NA         |                                                                                                 |
+| Base                |    1     | MDF                          |   1100x500x3mm |        NA         |                                                                                                 |
 | Dry Wall Box        |    8     | electrical dry wall box      |     NA         |     Mauser.pt     | https://mauser.pt/catalog/product_info.php?products_id=302-0743                                 |
 | Shelly plus 2PM     |    1     | Shelly plus 2PM              |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=095-0483                                  |
 | Shelly plus 1PM     |    1     | Shelly plus 1PM              |       NA       |       Mauser.pt   |https://mauser.pt/catalog/product_info.php?products_id=096-3331                                  |
@@ -66,7 +66,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Shutters key        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=570_572_855_3342_1008_3338&products_id=302-1531 |
 | Switch key          | 3        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1504 |
 | Switch frame        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1513 |
-| Transparent cover   | 1        | 3 covers to prevent electric shock | 400x100mm|      NA           |  |
+| Transparent cover   | 1        | 3 covers to prevent electric shock|400x100x3mm|      NA           |  |
 | Fundação Lateral    | 1        | 3d printed Part              |  160gr         |      NA           |  |
 | Paredes RC com portão e porta | 1 | 3d printed Part           | 280gr          | NA                |  |
 | Chão                | 1        | 3d printed Part              | 120gr          | NA                |  |
@@ -86,8 +86,8 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | polia servo         | 2        | 3d printed Part              | 5gr            | NA                |  |
 |suporte de shelly    | 3        | 3d printed Part              | 35gr           | NA                |  |
 |cantos               | 8        | 3d printed Part              | 10gr           | NA                |  |
-|M3 Screws            | 7        |                              | 16mm           | NA                |  |
-|M3 Nuts              | 3        |                              |                | NA                |  |
+|M3 Screws            | 8        |                              | 16mm           | NA                |  |
+|M3 Nuts              | 4        |                              |                | NA                |  |
 
 ## 230v diagram
 
