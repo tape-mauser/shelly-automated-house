@@ -91,13 +91,13 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 
 ## 230v diagram
 
-<img src="./230v diagram image.jpg" alt="Descrição da Imagem" width="600" height="500">
+<img src="./230v diagram image.jpg" alt="Descrição da Imagem" width="800" height="500">
 
 You can view or download the full documentation in [this PDF file](./230v_shelly_diagram.pdf).
 
 ## 5v diagram
 
-<img src="./5v diagram image.jpg" alt="Descrição da Imagem" width="600" height="500">
+<img src="./5v diagram image.jpg" alt="Descrição da Imagem" width="800" height="500">
 
 You can view or download the full documentation in [this PDF file](./5v_shelly_diagram.pdf).
 
