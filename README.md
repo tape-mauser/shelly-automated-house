@@ -62,7 +62,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Belt                | 1        | Servo Belt gate              |                |  Mauser.pt        | https://mauser.pt/catalog/product_info.php?products_id=037-1095 |
 | Pressure switch     |  1       | (gate)                       |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=570_572_855_3342_1007_3326&products_id=302-1632 |
 | Light switch        |  2       | (lights)                     |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1503 |
-| Shutters switch     |  1       | (shutters)                   |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1503 |
+| Shutters switch     |  1       | (shutters)                   |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1530 |
 | Shutters key        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?cPath=570_572_855_3342_1008_3338&products_id=302-1531 |
 | Switch key          | 3        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1504 |
 | Switch frame        | 1        |                              |                | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=302-1513 |
