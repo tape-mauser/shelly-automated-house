@@ -49,7 +49,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 | Shelly wall display |    1     | Shelly wall display          |      NA        |        Mauser.pt  |https://mauser.pt/catalog/product_info.php?products_id=302-3545                                  |
 | Relay 230v          |    4     | Relay 230v                   |      NA        | Mauser.pt         |https://mauser.pt/catalog/product_info.php?products_id=083-0127|
 | Node mcu esp32      |  1       |  Node mcu esp32              | NA             |Mauser.pt          |https://mauser.pt/catalog/product_info.php?products_id=096-7620|
-| Power Supply        | 1        |  Power Supply                | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=035-2542 |
+| Power Supply        | 1        |  Power Supply                | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=035-2961 |
 | IEC panel           | 1        |  IEC panel                   | NA             | Mauser.pt         | https://mauser.pt/catalog/product_info.php?products_id=011-0459 |
 | Power cord          | 1        | Power cord                   | NA             |Mauser.pt          | https://mauser.pt/catalog/product_info.php?products_id=047-2090|
 |  Blue Wire          | 10MTR    |Blue Wire                     | 1,5mm          | Mauser.pt         |  https://mauser.pt/catalog/product_info.php?products_id=016-0413  |
